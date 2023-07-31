@@ -1,0 +1,38 @@
+--------------------------------------------------------------HƯỚNG DẪN SỬ DỤNG------------------------------------------------------------
+
+==LOGIN==
+- Vừa vào màn hình đăng nhập sẽ hiện ra là nơi để bạn dùng mã nhân viên và mật khẩu mà shop đã cấp cho bạn để đăng nhập vào hệ thống 
+
+==TRANG CHỦ==
+- Màn hình trang chủ là nơi hiện ra tất cả các chức năng mà bạn có thể sử dụng được
+
+==CHỨC NĂNG KHÁCH HÀNG==
+- Chức năng khách hàng sẽ là nơi các bạn lưu thông tin khách hàng bao gồm họ tên, số điện thoại, địa chỉ,...
+- Gồm các nút như thêm, sửa, xóa, làm mới 
+
+==CHỨC NĂNG NHÂN VIÊN==
+- Chức năng dùng để quản lý các thông tin cá nhân của nhân viên đang làm việc tại cửa hàng
+- Gồm các nút như thêm, sửa, xóa, làm mới 
+- Chức năng chỉ quản lý mới có thể sử dụng được 
+
+==CHỨC NĂNG SẢN PHẨM==	
+- Chức năng dùng để quản lý các sản phẩm hiện đang được bày bán tại cửa hàng, đồng thời sẽ thông báo về tình trạng số lượng hiện tại của giỏ hàng 
+- Gồm các nút như thêm, sửa, xóa, làm mới 
+
+==CHỨC NĂNG ĐƠN HÀNG==
+- Chức năng dùng để quản lý đơn hàng cũng như xuất hóa đơn cho khách hàng
+- Gồm các nút như thêm, in hóa đơn, xóa, làm mới
+ 
+==CHỨC NĂNG THỐNG KÊ==
+- Chức năng dùng xem các thống kê doanh thu sản phẩm theo ngày tháng hoặc theo nhân viên ngoài ra có biểu đồ để người dùng xem trực quan hơn 
+- Chức năng chỉ quản lý mới có thể sử dụng được 
+
+==CHỨC NĂNG CHẤM CÔNG==
+- Chức năng được dùng cho việc tính lương của nhân viên theo số giờ làm của nhân viên
+- Chức năng chỉ dành riêng cho quản lý
+
+==CÁC CHỨC NĂNG HỖ TRỢ KHÁC==
+- Chức năng đổi mật khẩu dùng để đổi mật khẩu cho người dùng 
+
+
+
